@@ -82,5 +82,26 @@
     "recipient": "mahaylabalentine04@gmail.com",
     "subject": "Quick check-in",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "14:55:11",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Reaching out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "14:55:15",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Just thinking about this",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "14:55:17",
+    "recipient": "admin@caytral.com",
+    "subject": "Something I wanted to share",
+    "status": "sent"
   }
 ]
