@@ -103,5 +103,26 @@
     "recipient": "admin@caytral.com",
     "subject": "Something I wanted to share",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "15:02:42",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Quick question",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "15:02:46",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Staying connected",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "15:02:47",
+    "recipient": "admin@caytral.com",
+    "subject": "Just thinking about this",
+    "status": "sent"
   }
 ]
