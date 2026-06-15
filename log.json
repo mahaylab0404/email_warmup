@@ -124,5 +124,26 @@
     "recipient": "admin@caytral.com",
     "subject": "Just thinking about this",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "17:59:03",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Something I wanted to share",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "17:59:06",
+    "recipient": "admin@caytral.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "17:59:07",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Wanted to reach out",
+    "status": "sent"
   }
 ]
