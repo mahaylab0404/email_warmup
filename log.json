@@ -229,5 +229,47 @@
     "recipient": "admin@zuldeira.com",
     "subject": "Quick question",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:19",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Thoughts on this?",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:23",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "A few updates",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:24",
+    "recipient": "admin@caytral.com",
+    "subject": "Wanted to reach out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:25",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Hope this finds you well",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:26",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "A few updates",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "16:20:27",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "A few updates",
+    "status": "sent"
   }
 ]
