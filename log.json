@@ -313,5 +313,47 @@
     "recipient": "admin@caytral.com",
     "subject": "Quick note",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:08",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Following up",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:08",
+    "recipient": "admin@zuldeira.com",
+    "subject": "A few updates",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:09",
+    "recipient": "admin@caytral.com",
+    "subject": "Checking in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:10",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Checking in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:10",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Thoughts on this?",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:58:12",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "A few updates",
+    "status": "sent"
   }
 ]
