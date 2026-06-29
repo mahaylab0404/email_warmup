@@ -691,5 +691,47 @@
     "recipient": "steve.charles11@outlook.com",
     "subject": "Something I wanted to share",
     "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:20:53",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Staying connected",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:20:55",
+    "recipient": "admin@caytral.com",
+    "subject": "Quick check-in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:20:58",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Quick note",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:20:58",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Following up",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:20:59",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Staying connected",
+    "status": "sent"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "14:21:01",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Quick question",
+    "status": "sent"
   }
 ]
