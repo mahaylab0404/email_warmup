@@ -1195,5 +1195,47 @@
     "recipient": "admin@caytral.com",
     "subject": "Quick note",
     "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:42",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Checking in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:43",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Thoughts on this?",
+    "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:45",
+    "recipient": "admin@caytral.com",
+    "subject": "Following up",
+    "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:46",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Reaching out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:47",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Quick check-in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "14:15:49",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Quick note",
+    "status": "sent"
   }
 ]
