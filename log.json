@@ -2161,5 +2161,47 @@
     "recipient": "admin@zuldeira.com",
     "subject": "Following up",
     "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:08",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Quick note",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:10",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Re: our last conversation",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:12",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Wanted to reach out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:13",
+    "recipient": "admin@caytral.com",
+    "subject": "Just thinking about this",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:13",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Re: our last conversation",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-03",
+    "time": "15:34:14",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Quick question",
+    "status": "sent"
   }
 ]
