@@ -2875,5 +2875,47 @@
     "recipient": "admin@caytral.com",
     "subject": "A few updates",
     "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:22",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Reaching out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:23",
+    "recipient": "admin@caytral.com",
+    "subject": "Quick note",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:23",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Something I wanted to share",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:24",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Hope this finds you well",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:27",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:36:28",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Quick note",
+    "status": "sent"
   }
 ]
