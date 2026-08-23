@@ -3001,5 +3001,47 @@
     "recipient": "admin@zuldeira.com",
     "subject": "Something I wanted to share",
     "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:12",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Following up",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:12",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Following up",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:15",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Hope this finds you well",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:16",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Quick check-in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:19",
+    "recipient": "admin@caytral.com",
+    "subject": "Thoughts on this?",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:23:19",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Reaching out",
+    "status": "sent"
   }
 ]
