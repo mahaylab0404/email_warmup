@@ -3169,5 +3169,47 @@
     "recipient": "mahaylabalentine04@gmail.com",
     "subject": "Quick check-in",
     "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:39:52",
+    "recipient": "admin@caytral.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:39:55",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Quick note",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:39:58",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Something I wanted to share",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:39:59",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Wanted to reach out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:39:59",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Wanted to reach out",
+    "status": "sent"
+  },
+  {
+    "date": "2026-08-27",
+    "time": "22:40:00",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Thoughts on this?",
+    "status": "sent"
   }
 ]
