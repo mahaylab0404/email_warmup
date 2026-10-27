@@ -5689,5 +5689,47 @@
     "recipient": "steve.charles11@outlook.com",
     "subject": "Something I wanted to share",
     "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:06",
+    "recipient": "admin@zuldeira.com",
+    "subject": "Something I wanted to share",
+    "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:07",
+    "recipient": "mahaylabalentine04@gmail.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:09",
+    "recipient": "catherinebalentine109@gmail.com",
+    "subject": "Quick check-in",
+    "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:10",
+    "recipient": "steve.charles11@outlook.com",
+    "subject": "Re: our last conversation",
+    "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:11",
+    "recipient": "balentine.mahayla@outlook.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
+  },
+  {
+    "date": "2026-10-27",
+    "time": "18:25:12",
+    "recipient": "admin@caytral.com",
+    "subject": "Let's reconnect",
+    "status": "sent"
   }
 ]
